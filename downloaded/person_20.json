@@ -1,0 +1,26 @@
+{
+  "birth_year": "896BBY",
+  "created": "2014-12-15T12:26:01.042000Z",
+  "edited": "2014-12-20T21:17:50.345000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/"
+  ],
+  "gender": "male",
+  "hair_color": "white",
+  "height": "66",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "17",
+  "name": "Yoda",
+  "skin_color": "green",
+  "species": [
+    "http://swapi.co/api/species/6/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/20/",
+  "vehicles": []
+}

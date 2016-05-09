@@ -1,0 +1,28 @@
+{
+  "birth_year": "46BBY",
+  "created": "2014-12-19T17:28:26.926000Z",
+  "edited": "2016-04-20T17:06:31.502555Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "female",
+  "hair_color": "brown",
+  "height": "165",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "45",
+  "name": "Padm\u00e9 Amidala",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/39/",
+    "http://swapi.co/api/starships/49/",
+    "http://swapi.co/api/starships/64/"
+  ],
+  "url": "http://swapi.co/api/people/35/",
+  "vehicles": []
+}

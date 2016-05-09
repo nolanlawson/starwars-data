@@ -1,0 +1,22 @@
+{
+  "birth_year": "37BBY",
+  "created": "2014-12-15T13:01:57.178000Z",
+  "edited": "2014-12-20T21:17:50.359000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/2/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "175",
+  "homeworld": "http://swapi.co/api/planets/6/",
+  "mass": "79",
+  "name": "Lobot",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/26/",
+  "vehicles": []
+}

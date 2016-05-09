@@ -1,0 +1,27 @@
+{
+  "birth_year": "112BBY",
+  "created": "2014-12-10T15:10:51.357000Z",
+  "edited": "2014-12-20T21:17:50.309000Z",
+  "eye_color": "yellow",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/1/"
+  ],
+  "gender": "n/a",
+  "hair_color": "n/a",
+  "height": "167",
+  "homeworld": "http://swapi.co/api/planets/1/",
+  "mass": "75",
+  "name": "C-3PO",
+  "skin_color": "gold",
+  "species": [
+    "http://swapi.co/api/species/2/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/2/",
+  "vehicles": []
+}

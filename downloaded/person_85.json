@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2015-04-17T06:54:01.495077Z",
+  "edited": "2015-04-17T06:54:01.495128Z",
+  "eye_color": "hazel",
+  "films": [
+    "http://swapi.co/api/films/7/"
+  ],
+  "gender": "female",
+  "hair_color": "brown",
+  "height": "unknown",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "unknown",
+  "name": "Rey",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/85/",
+  "vehicles": []
+}

@@ -1,0 +1,24 @@
+{
+  "birth_year": "47BBY",
+  "created": "2014-12-10T15:53:41.121000Z",
+  "edited": "2014-12-20T21:17:50.319000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/1/"
+  ],
+  "gender": "female",
+  "hair_color": "brown",
+  "height": "165",
+  "homeworld": "http://swapi.co/api/planets/1/",
+  "mass": "75",
+  "name": "Beru Whitesun lars",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/7/",
+  "vehicles": []
+}

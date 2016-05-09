@@ -1,0 +1,21 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T20:18:37.619000Z",
+  "edited": "2014-12-20T21:17:50.496000Z",
+  "eye_color": "white",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "female",
+  "hair_color": "none",
+  "height": "178",
+  "homeworld": "http://swapi.co/api/planets/60/",
+  "mass": "48",
+  "name": "Sly Moore",
+  "skin_color": "pale",
+  "species": [],
+  "starships": [],
+  "url": "http://swapi.co/api/people/82/",
+  "vehicles": []
+}

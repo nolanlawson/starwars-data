@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T11:11:39.630000Z",
+  "edited": "2014-12-20T21:17:50.449000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/"
+  ],
+  "gender": "female",
+  "hair_color": "brown",
+  "height": "157",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "unknown",
+  "name": "Cord\u00e9",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/61/",
+  "vehicles": []
+}

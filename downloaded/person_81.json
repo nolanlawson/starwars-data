@@ -1,0 +1,23 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T19:49:35.583000Z",
+  "edited": "2014-12-20T21:17:50.493000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/1/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "brown",
+  "height": "188",
+  "homeworld": "http://swapi.co/api/planets/2/",
+  "mass": "79",
+  "name": "Raymus Antilles",
+  "skin_color": "light",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/81/",
+  "vehicles": []
+}

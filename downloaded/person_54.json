@@ -1,0 +1,23 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T10:26:47.902000Z",
+  "edited": "2014-12-20T21:17:50.427000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "black",
+  "height": "171",
+  "homeworld": "http://swapi.co/api/planets/45/",
+  "mass": "unknown",
+  "name": "Eeth Koth",
+  "skin_color": "brown",
+  "species": [
+    "http://swapi.co/api/species/22/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/54/",
+  "vehicles": []
+}

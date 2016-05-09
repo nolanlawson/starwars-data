@@ -1,0 +1,35 @@
+{
+  "birth_year": "57BBY",
+  "created": "2014-12-10T16:16:29.192000Z",
+  "edited": "2014-12-20T21:17:50.325000Z",
+  "eye_color": "blue-gray",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/1/"
+  ],
+  "gender": "male",
+  "hair_color": "auburn, white",
+  "height": "182",
+  "homeworld": "http://swapi.co/api/planets/20/",
+  "mass": "77",
+  "name": "Obi-Wan Kenobi",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/48/",
+    "http://swapi.co/api/starships/59/",
+    "http://swapi.co/api/starships/64/",
+    "http://swapi.co/api/starships/65/",
+    "http://swapi.co/api/starships/74/"
+  ],
+  "url": "http://swapi.co/api/people/10/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/38/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-19T17:32:56.741000Z",
+  "edited": "2014-12-20T21:17:50.385000Z",
+  "eye_color": "orange",
+  "films": [
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "224",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "82",
+  "name": "Roos Tarpals",
+  "skin_color": "grey",
+  "species": [
+    "http://swapi.co/api/species/12/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/37/",
+  "vehicles": []
+}

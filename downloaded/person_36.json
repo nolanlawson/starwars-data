@@ -1,0 +1,23 @@
+{
+  "birth_year": "52BBY",
+  "created": "2014-12-19T17:29:32.489000Z",
+  "edited": "2014-12-20T21:17:50.383000Z",
+  "eye_color": "orange",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "196",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "66",
+  "name": "Jar Jar Binks",
+  "skin_color": "orange",
+  "species": [
+    "http://swapi.co/api/species/12/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/36/",
+  "vehicles": []
+}

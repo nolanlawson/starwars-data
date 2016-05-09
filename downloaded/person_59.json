@@ -1,0 +1,23 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T10:53:26.457000Z",
+  "edited": "2014-12-20T21:17:50.442000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "196",
+  "homeworld": "http://swapi.co/api/planets/50/",
+  "mass": "unknown",
+  "name": "Mas Amedda",
+  "skin_color": "blue",
+  "species": [
+    "http://swapi.co/api/species/27/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/59/",
+  "vehicles": []
+}

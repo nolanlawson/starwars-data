@@ -1,0 +1,25 @@
+{
+  "birth_year": "31BBY",
+  "created": "2014-12-15T12:56:32.683000Z",
+  "edited": "2014-12-20T21:17:50.357000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/"
+  ],
+  "gender": "male",
+  "hair_color": "black",
+  "height": "177",
+  "homeworld": "http://swapi.co/api/planets/30/",
+  "mass": "79",
+  "name": "Lando Calrissian",
+  "skin_color": "dark",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/10/"
+  ],
+  "url": "http://swapi.co/api/people/25/",
+  "vehicles": []
+}

@@ -1,0 +1,24 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T10:18:57.202000Z",
+  "edited": "2014-12-20T21:17:50.424000Z",
+  "eye_color": "black",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "196",
+  "homeworld": "http://swapi.co/api/planets/44/",
+  "mass": "87",
+  "name": "Kit Fisto",
+  "skin_color": "green",
+  "species": [
+    "http://swapi.co/api/species/21/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/53/",
+  "vehicles": []
+}

@@ -1,0 +1,21 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T17:43:36.409000Z",
+  "edited": "2014-12-20T21:17:50.478000Z",
+  "eye_color": "red, blue",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "female",
+  "hair_color": "none",
+  "height": "96",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "unknown",
+  "name": "R4-P17",
+  "skin_color": "silver, red",
+  "species": [],
+  "starships": [],
+  "url": "http://swapi.co/api/people/75/",
+  "vehicles": []
+}

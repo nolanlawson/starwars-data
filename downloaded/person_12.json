@@ -1,0 +1,23 @@
+{
+  "birth_year": "64BBY",
+  "created": "2014-12-10T16:26:56.138000Z",
+  "edited": "2014-12-20T21:17:50.330000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/1/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "auburn, grey",
+  "height": "180",
+  "homeworld": "http://swapi.co/api/planets/21/",
+  "mass": "unknown",
+  "name": "Wilhuff Tarkin",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/12/",
+  "vehicles": []
+}

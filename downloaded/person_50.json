@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T10:08:33.777000Z",
+  "edited": "2014-12-20T21:17:50.417000Z",
+  "eye_color": "orange",
+  "films": [
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "163",
+  "homeworld": "http://swapi.co/api/planets/41/",
+  "mass": "65",
+  "name": "Ben Quadinaros",
+  "skin_color": "grey, green, yellow",
+  "species": [
+    "http://swapi.co/api/species/19/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/50/",
+  "vehicles": []
+}

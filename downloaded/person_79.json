@@ -1,0 +1,26 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T19:43:53.348000Z",
+  "edited": "2014-12-20T21:17:50.488000Z",
+  "eye_color": "green, yellow",
+  "films": [
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "216",
+  "homeworld": "http://swapi.co/api/planets/59/",
+  "mass": "159",
+  "name": "Grievous",
+  "skin_color": "brown, white",
+  "species": [
+    "http://swapi.co/api/species/36/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/74/"
+  ],
+  "url": "http://swapi.co/api/people/79/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/60/"
+  ]
+}

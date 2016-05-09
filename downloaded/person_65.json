@@ -1,0 +1,22 @@
+{
+  "birth_year": "40BBY",
+  "created": "2014-12-20T16:46:40.440000Z",
+  "edited": "2014-12-20T21:17:50.457000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/5/"
+  ],
+  "gender": "female",
+  "hair_color": "black",
+  "height": "166",
+  "homeworld": "http://swapi.co/api/planets/51/",
+  "mass": "50",
+  "name": "Barriss Offee",
+  "skin_color": "yellow",
+  "species": [
+    "http://swapi.co/api/species/29/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/65/",
+  "vehicles": []
+}

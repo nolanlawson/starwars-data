@@ -1,0 +1,23 @@
+{
+  "birth_year": "67BBY",
+  "created": "2014-12-20T16:53:08.575000Z",
+  "edited": "2014-12-20T21:17:50.463000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "black",
+  "height": "191",
+  "homeworld": "http://swapi.co/api/planets/2/",
+  "mass": "unknown",
+  "name": "Bail Prestor Organa",
+  "skin_color": "tan",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/68/",
+  "vehicles": []
+}

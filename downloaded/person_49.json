@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T10:02:12.223000Z",
+  "edited": "2014-12-20T21:17:50.416000Z",
+  "eye_color": "black",
+  "films": [
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "122",
+  "homeworld": "http://swapi.co/api/planets/40/",
+  "mass": "unknown",
+  "name": "Gasgano",
+  "skin_color": "white, blue",
+  "species": [
+    "http://swapi.co/api/species/18/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/49/",
+  "vehicles": []
+}

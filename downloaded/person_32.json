@@ -1,0 +1,24 @@
+{
+  "birth_year": "92BBY",
+  "created": "2014-12-19T16:54:53.618000Z",
+  "edited": "2014-12-20T21:17:50.375000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "male",
+  "hair_color": "brown",
+  "height": "193",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "89",
+  "name": "Qui-Gon Jinn",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/32/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/38/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "birth_year": "44BBY",
+  "created": "2014-12-10T17:03:30.334000Z",
+  "edited": "2014-12-20T21:17:50.336000Z",
+  "eye_color": "black",
+  "films": [
+    "http://swapi.co/api/films/1/"
+  ],
+  "gender": "male",
+  "hair_color": "n/a",
+  "height": "173",
+  "homeworld": "http://swapi.co/api/planets/23/",
+  "mass": "74",
+  "name": "Greedo",
+  "skin_color": "green",
+  "species": [
+    "http://swapi.co/api/species/4/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/15/",
+  "vehicles": []
+}

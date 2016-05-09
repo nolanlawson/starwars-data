@@ -1,0 +1,24 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-18T11:26:18.541000Z",
+  "edited": "2014-12-20T21:17:50.371000Z",
+  "eye_color": "black",
+  "films": [
+    "http://swapi.co/api/films/3/"
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "160",
+  "homeworld": "http://swapi.co/api/planets/33/",
+  "mass": "68",
+  "name": "Nien Nunb",
+  "skin_color": "grey",
+  "species": [
+    "http://swapi.co/api/species/10/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/10/"
+  ],
+  "url": "http://swapi.co/api/people/31/",
+  "vehicles": []
+}

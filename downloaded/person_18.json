@@ -1,0 +1,28 @@
+{
+  "birth_year": "21BBY",
+  "created": "2014-12-12T11:08:06.469000Z",
+  "edited": "2014-12-20T21:17:50.341000Z",
+  "eye_color": "hazel",
+  "films": [
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/1/"
+  ],
+  "gender": "male",
+  "hair_color": "brown",
+  "height": "170",
+  "homeworld": "http://swapi.co/api/planets/22/",
+  "mass": "77",
+  "name": "Wedge Antilles",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/12/"
+  ],
+  "url": "http://swapi.co/api/people/18/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/14/"
+  ]
+}

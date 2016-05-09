@@ -1,0 +1,31 @@
+{
+  "birth_year": "200BBY",
+  "created": "2014-12-10T16:42:45.066000Z",
+  "edited": "2014-12-20T21:17:50.332000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/1/",
+    "http://swapi.co/api/films/7/"
+  ],
+  "gender": "male",
+  "hair_color": "brown",
+  "height": "228",
+  "homeworld": "http://swapi.co/api/planets/14/",
+  "mass": "112",
+  "name": "Chewbacca",
+  "skin_color": "unknown",
+  "species": [
+    "http://swapi.co/api/species/3/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/10/",
+    "http://swapi.co/api/starships/22/"
+  ],
+  "url": "http://swapi.co/api/people/13/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/19/"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "birth_year": "102BBY",
+  "created": "2014-12-20T16:52:14.726000Z",
+  "edited": "2014-12-20T21:17:50.462000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/6/"
+  ],
+  "gender": "male",
+  "hair_color": "white",
+  "height": "193",
+  "homeworld": "http://swapi.co/api/planets/52/",
+  "mass": "80",
+  "name": "Dooku",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/67/",
+  "vehicles": [
+    "http://swapi.co/api/vehicles/55/"
+  ]
+}

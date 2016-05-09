@@ -1,0 +1,28 @@
+{
+  "birth_year": "33BBY",
+  "created": "2014-12-10T15:11:50.376000Z",
+  "edited": "2014-12-20T21:17:50.311000Z",
+  "eye_color": "red",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/1/",
+    "http://swapi.co/api/films/7/"
+  ],
+  "gender": "n/a",
+  "hair_color": "n/a",
+  "height": "96",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "32",
+  "name": "R2-D2",
+  "skin_color": "white, blue",
+  "species": [
+    "http://swapi.co/api/species/2/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/3/",
+  "vehicles": []
+}

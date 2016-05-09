@@ -1,0 +1,22 @@
+{
+  "birth_year": "48BBY",
+  "created": "2014-12-18T11:12:38.895000Z",
+  "edited": "2014-12-20T21:17:50.364000Z",
+  "eye_color": "blue",
+  "films": [
+    "http://swapi.co/api/films/3/"
+  ],
+  "gender": "female",
+  "hair_color": "auburn",
+  "height": "150",
+  "homeworld": "http://swapi.co/api/planets/32/",
+  "mass": "unknown",
+  "name": "Mon Mothma",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/28/",
+  "vehicles": []
+}

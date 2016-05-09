@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2015-04-17T06:52:40.793621Z",
+  "edited": "2015-04-17T06:52:40.793674Z",
+  "eye_color": "dark",
+  "films": [
+    "http://swapi.co/api/films/7/"
+  ],
+  "gender": "male",
+  "hair_color": "black",
+  "height": "unknown",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "unknown",
+  "name": "Finn",
+  "skin_color": "dark",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/84/",
+  "vehicles": []
+}

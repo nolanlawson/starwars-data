@@ -1,0 +1,24 @@
+{
+  "birth_year": "unknown",
+  "created": "2014-12-20T11:10:10.381000Z",
+  "edited": "2014-12-20T21:17:50.445000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/"
+  ],
+  "gender": "male",
+  "hair_color": "black",
+  "height": "185",
+  "homeworld": "http://swapi.co/api/planets/8/",
+  "mass": "85",
+  "name": "Gregar Typho",
+  "skin_color": "dark",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [
+    "http://swapi.co/api/starships/39/"
+  ],
+  "url": "http://swapi.co/api/people/60/",
+  "vehicles": []
+}

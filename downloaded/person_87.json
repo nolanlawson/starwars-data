@@ -1,0 +1,22 @@
+{
+  "birth_year": "unknown",
+  "created": "2015-04-17T06:57:38.061346Z",
+  "edited": "2015-04-17T06:57:38.061453Z",
+  "eye_color": "black",
+  "films": [
+    "http://swapi.co/api/films/7/"
+  ],
+  "gender": "none",
+  "hair_color": "none",
+  "height": "unknown",
+  "homeworld": "http://swapi.co/api/planets/28/",
+  "mass": "unknown",
+  "name": "BB8",
+  "skin_color": "none",
+  "species": [
+    "http://swapi.co/api/species/2/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/87/",
+  "vehicles": []
+}

@@ -1,0 +1,23 @@
+{
+  "birth_year": "72BBY",
+  "created": "2014-12-19T17:57:41.191000Z",
+  "edited": "2014-12-20T21:17:50.401000Z",
+  "eye_color": "brown",
+  "films": [
+    "http://swapi.co/api/films/5/",
+    "http://swapi.co/api/films/4/"
+  ],
+  "gender": "female",
+  "hair_color": "black",
+  "height": "163",
+  "homeworld": "http://swapi.co/api/planets/1/",
+  "mass": "unknown",
+  "name": "Shmi Skywalker",
+  "skin_color": "fair",
+  "species": [
+    "http://swapi.co/api/species/1/"
+  ],
+  "starships": [],
+  "url": "http://swapi.co/api/people/43/",
+  "vehicles": []
+}
